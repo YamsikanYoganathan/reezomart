@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-inter: "Inter", sans-serif;
+  --font-inter-tight: "Inter Tight", sans-serif;
+}
+
+:root {
+  font-family: "Inter", sans-serif;
+}
+
+h1{
+  font-family: "Inter Tight", sans-serif;
+}
